@@ -1,8 +1,8 @@
-#**🛳 Titanic Dataset Analysis**
+# **🛳 Titanic Dataset Analysis**
 
 This repository contains a detailed analysis of the famous Titanic dataset, exploring survival patterns and applying data preprocessing, feature engineering, and exploratory data analysis (EDA). The goal is to demonstrate end-to-end data handling and analytical skills in Python.
 
-##**📂 Project Structure**
+## **📂 Project Structure**
 
 The notebook is organized into the following sections:
 
@@ -74,7 +74,7 @@ Computed outliers and scaling with NumPy functions.
 Why it matters:
 NumPy provides fast, memory-efficient numerical operations, which are essential for handling larger datasets and preparing inputs for machine learning models.
 
-##**🛠 Tools & Libraries**
+## **🛠 Tools & Libraries**
 
 Python 🐍
 
