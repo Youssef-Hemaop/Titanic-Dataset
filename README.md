@@ -61,6 +61,16 @@ Analyzed correlations between features and survival outcomes.
 Why it matters:
 Visualization uncovers hidden relationships and trends that raw statistics might miss. For example, women and children had higher survival rates, while third-class passengers were less likely to survive.
 
+**5️⃣ Machine Learning & Encoding**
+
+What was done:
+
+Applied One-Hot Encoding to categorical variables such as Sex and Embarked to prepare the data for machine learning models.
+Implemented basic model experiments (e.g., Logistic Regression and Decision Trees) to predict survival outcomes based on engineered features.
+
+Why it matters:
+Encoding categorical variables ensures that algorithms can interpret non-numeric data. Even simple models can reveal feature importance and highlight the impact of preprocessing on predictive performance.
+
 **5️⃣ NumPy Applications**
 
 What was done:
