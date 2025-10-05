@@ -79,8 +79,6 @@ Pandas for data manipulation
 
 NumPy for numerical processing
 
-Matplotlib & Seaborn for data visualization
-
 **🚀 Next Steps**
 
 This notebook forms the foundation for:
