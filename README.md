@@ -48,20 +48,7 @@ Transformed categorical variables (Sex, Embarked) into numerical encodings.
 Why it matters:
 Well-designed features help models capture important survival patterns (e.g., people traveling alone vs. with family). Feature engineering often makes a bigger difference than complex models.
 
-**4️⃣ Deep Exploratory Analysis**
-
-What was done:
-
-Visualized distributions of key variables (Age, Fare, Pclass) using Matplotlib and Seaborn.
-
-Compared survival rates across groups (e.g., gender, class, family size).
-
-Analyzed correlations between features and survival outcomes.
-
-Why it matters:
-Visualization uncovers hidden relationships and trends that raw statistics might miss. For example, women and children had higher survival rates, while third-class passengers were less likely to survive.
-
-**5️⃣ Machine Learning & Encoding**
+**4️⃣ Machine Learning & Encoding**
 
 What was done:
 
