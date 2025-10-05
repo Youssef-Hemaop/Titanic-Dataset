@@ -48,7 +48,7 @@ Transformed categorical variables (Sex, Embarked) into numerical encodings.
 Why it matters:
 Well-designed features help models capture important survival patterns (e.g., people traveling alone vs. with family). Feature engineering often makes a bigger difference than complex models.
 
-**4️⃣ Machine Learning & Encoding**
+**4️⃣ Machine Learning**
 
 What was done:
 
