@@ -1,6 +1,6 @@
 # **🛳 Titanic Dataset Analysis**
 
-This repository contains a detailed analysis of the famous Titanic dataset, exploring survival patterns and applying data preprocessing, feature engineering, and exploratory data analysis (EDA). The goal is to demonstrate end-to-end data handling and analytical skills in Python.
+This repository contains a detailed analysis of the famous Titanic dataset, exploring survival patterns and applying data preprocessinga and feature engineering. The goal is to demonstrate end-to-end data handling and analytical skills in Python.
 
 ## **📂 Project Structure**
 
